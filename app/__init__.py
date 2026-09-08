@@ -1,0 +1,1 @@
+"""SRD monster query application."""
